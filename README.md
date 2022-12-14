@@ -35,8 +35,8 @@ Scrive todo qa
    Prerequisite - Node JS (Verify using --> node -v)
 
 1. Clone the project
-2. Go to tests folder using
-   Run ```cd tests```
+2. Go to Project folder using
+   Run ```cd <folder name>```
 3. On Terminal 
    Run ```npm install```
 4. Run ```npx cypress open```
