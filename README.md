@@ -2,9 +2,12 @@
 Scrive todo qa 
 
 ## This Repo contains - 
-  ### 1. Test cases 
-  ### 2. Test Report
-  ### 2. tests folder containing cypress Automation test
+### Manual Functional Test
+  1. Test cases  - ToDo-Test-Cases.xlx 
+  2. Test Report - ToDo-Test-Report.docx
+  
+### Automation Test
+  3. tests folder containing cypress Automation test
 
 ## Project description:
   ### Project is based on cypress (Using Javascript) and integrated Chai and mocha and Cucumber for BDD framework.
