@@ -7,7 +7,12 @@ Scrive todo qa
   2. Test Report - ToDo-Test-Report.docx
   
 ### Automation Test
-  3. tests folder containing cypress Automation test
+  1. Cypress folder containing cypress Automation test
+  2. Automation script can be run via Github action, Steps are mentioned below. 
+  3. Test will run on different browser- Chrome, Electron, Edge.
+  4. Post Test result link will be found at the end of 'Cypress step' in Git Hub Action.
+      
+# Run Result- https://cloud.cypress.io/projects/bjzwwx/runs/1/overview
 
 ## Project description:
   ### Project is based on cypress (Using Javascript) and integrated Chai and mocha and Cucumber for BDD framework.
