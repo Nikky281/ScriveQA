@@ -21,8 +21,8 @@ Scrive todo qa
       1. homepage.feature       - Validation of text Header, filters etc
       2. addtask.feature        - Verify task are being added successfully
       3. markcomplete.feature   - Verify task are maked completed are reflected in completed filter
-      
-
+      4. Step Definations are presented with corresponding folder names.
+  
 ## To Run Test via github action
 1. Go To 'Actions' tab on Github Repo -
 2. Go to (Click) on 'Scriveqa Cypress Tests' on Workflows (Left Side)
