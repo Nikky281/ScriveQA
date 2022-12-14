@@ -9,7 +9,7 @@ Scrive todo qa
 ### Automation Test
   1. Cypress folder containing cypress Automation test
   2. Automation script can be run via Github action, Steps are mentioned below. 
-  3. Test will run on different browser- Chrome, Electron, Edge.
+  3. Test will run on different browsers- Chrome, Electron, Edge.
   4. Post Test result link will be found at the end of 'Cypress step' in Git Hub Action.
       
 # Run Result- https://cloud.cypress.io/projects/bjzwwx/runs/1/overview
@@ -21,7 +21,7 @@ Scrive todo qa
       1. homepage.feature       - Validation of text Header, filters etc
       2. addtask.feature        - Verify task are being added successfully
       3. markcomplete.feature   - Verify task are maked completed are reflected in completed filter
-      4. Step Definations are presented with corresponding folder names.
+      4. Step Definitions are presented with corresponding folder names.
   
 ## To Run Test via github action
 1. Go To 'Actions' tab on Github Repo -
