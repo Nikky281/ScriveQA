@@ -2,7 +2,7 @@
 Scrive todo qa 
 
 ## This Repo contains - 
-### Manual Functional Test
+### Manual Functional Test documents inside folder 'Functional Testing'-
   1. Test cases  - ToDo-Test-Cases.xlx 
   2. Test Report - ToDo-Test-Report.docx
   
@@ -15,9 +15,9 @@ Scrive todo qa
 # Run Result- https://cloud.cypress.io/projects/bjzwwx/runs/1/overview
 
 ## Project description:
-  ### Project is based on cypress (Using Javascript) and integrated Chai and mocha and Cucumber for BDD framework.
-  ### feature files are kept in - '''ScriveQA/tests/cypress/integration/examples/todoqa/*.feature'''
-  ### Following cases has been Automated :
+  #### Project is based on cypress (Using Javascript) and integrated Chai and mocha and Cucumber for BDD framework.
+  #### feature files are kept in - '''ScriveQA/cypress/integration/examples/todoqa/*.feature'''
+  #### Following cases has been Automated :
       1. homepage.feature       - Validation of text Header, filters etc
       2. addtask.feature        - Verify task are being added successfully
       3. markcomplete.feature   - Verify task are maked completed are reflected in completed filter
