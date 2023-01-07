@@ -1,5 +1,5 @@
-# scriveqa
-Scrive todo qa 
+# ToDO 
+
 
 ## This Repo contains - 
 ### Manual Functional Test documents inside folder 'Functional Testing'-
